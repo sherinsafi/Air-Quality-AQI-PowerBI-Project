@@ -21,7 +21,8 @@ https://data.gov.in/resource/real-time-air-quality-index-various-locations
 ## 📁 Files in this Repository
 - Cleaned_Air_Quality.xlsx  
 - Air_Quality_Analysis_Report.pdf  
-- AQI_Mini_Project_Documentation.docx  
+- AQI Documentation.docx
+- visualize.pbix 
 
 ## 🔍 Key Insights
 - Identified top polluted cities using AQI
