@@ -12,6 +12,7 @@ The dataset does not directly provide AQI, so a derived AQI was created using ma
 
 ## 📊 Dashboards
 - AQI Overview Dashboard
+  [View Dashboard Report](Air_Quality_Analysis_Report.pdf)
 - Pollutant Deep Dive Dashboard
 
 ## 📂 Dataset Source
