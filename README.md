@@ -11,9 +11,10 @@ The dataset does not directly provide AQI, so a derived AQI was created using ma
 - Pivot Tables
 
 ## 📊 Dashboards
-- AQI Overview Dashboard
-  [View Dashboard Report](Air_Quality_Analysis_Report.pdf)
+- AQI Overview Dashboard 
 - Pollutant Deep Dive Dashboard
+  
+   [View Dashboard Report](Air_Quality_Analysis_Report.pdf)
 
 ## 📂 Dataset Source
 Government of India – data.gov.in  
