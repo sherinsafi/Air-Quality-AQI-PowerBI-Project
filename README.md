@@ -34,3 +34,5 @@ https://data.gov.in/resource/real-time-air-quality-index-various-locations
 ## 👩‍💻 Author
 Shareena Beevi  
 Aspiring Data Analyst
+
+#PowerBI #DataAnalytics #Logistics #Dashboard #AI
